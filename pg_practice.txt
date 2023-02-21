@@ -1,0 +1,50 @@
+Nickel
+ClamAV
+Slort
+Wombo
+Authby
+Jacko
+MeatHead
+UT99
+MedJed
+Algeron
+Billybos
+Kevin
+Metallus
+Hutch
+Heist
+Vault
+Shenzi
+DVR4
+Craft
+Hepet
+Squid
+compromised
+Walla
+robust
+Pelican
+resourced
+Snookums
+Craft2
+Payday
+Fail
+NibblesExfiltrated
+BanzaiWalla
+Hunit
+Voip -- Pwned
+Dibble
+ERP
+Zino
+Depreciated
+Hetemit
+Wheels
+Peppo
+Postfish (Requires some Phishing)
+Malbec
+equires some MITM)
+Sybaris
+Hawat
+ZenPhoto -- Pwned
+Readys
+Nukem
+Sorcerer

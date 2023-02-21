@@ -1,0 +1,21 @@
+SoSimple
+Stapler
+SO SIMPLE: 1
+TRE: 1 (Although Idk If I would do the priv esc in a real world scenario ¯\_(ツ)_/¯ )
+SUNSET: MIDNIGHT
+InfosecPrep
+Seppuku
+DC-1
+DC-2
+Assertion101
+FunboxEasy
+FunboxEasyEnum
+DriftingBlue6
+Djinn3
+GLASGOW SMILE: 1.1
+PowerGrid 1.0.1
+GITROOT: 1
+Dawn2
+DC-3
+DC-4
+ICMP
